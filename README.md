@@ -11,5 +11,4 @@ First you have to download Leptonica:
 ```bash
 git clone git://github.com/danbloomberg/leptonica.git
 ```
-A detailed link of how to install Leptonica is here:
-[a link](http://www.leptonica.org/source/README.html)
+A detailed link of how to install Leptonica is [here](http://www.leptonica.org/source/README.html)
