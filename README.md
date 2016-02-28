@@ -16,3 +16,11 @@ A detailed link of how to install Leptonica is [here](http://www.leptonica.org/s
 After installing Leptonica, you have to install Tesseract-OCR
 
 A detailed instruction of how to is [here](https://github.com/tesseract-ocr/tesseract/wiki/Compiling)
+
+#Copy trained file to tesseract
+Although you can use default setting for tesseract, I really recomend you to use my trained file (captcha.traineddata)
+Therefore you should copy the trained data to tessdata:
+```bash
+sudo cp captcha.traineddata /usr/local/share/tessdata/
+```
+
